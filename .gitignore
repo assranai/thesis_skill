@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.bak
+
+# Outputs
+thesis_content.json
+thesis_output.docx
+thesis_r*.docx
+*.docx
+*.xml
+
+# IDE
+.vscode/
+.idea/
